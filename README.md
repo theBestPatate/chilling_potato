@@ -3,7 +3,7 @@
 A warm-grounded dark Neovim colorscheme built in the perceptually uniform
 [HSLuv](https://www.hsluv.org/) color space.
 
-![palette preview](https://placehold.co/600x200/1d1b1a/d2cbc6?text=chilling-potato+preview)
+![chilling-potato demo screenshot](chilling_potato_demo.png)
 
 ## Design
 
@@ -135,8 +135,8 @@ require("chilling_potato").setup({
 ## Credits
 
 Palette computed with HSLuv transforms and adjacency analysis against real
-treesitter parse trees. See `adjacence.py` and `solve.py` for the tooling.
+treesitter parse trees.
 
 ## License
 
-MIT — see [LICENSE](LICENSE)
+GPLV3 — see [LICENSE](LICENSE)
